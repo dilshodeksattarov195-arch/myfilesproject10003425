@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifydetch",
+        "uuid": 10785325,
+        "checksum": "rg1rwl"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
